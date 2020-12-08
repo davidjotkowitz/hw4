@@ -1,0 +1,4 @@
+1)By hand, this project could take at least an hour, if every article took about a minute to look over to find the names.
+2)This sort of procedure may be usefull for all sorts of scans that take in large amounts of data. For instance, it can be used on social media platforms to find out how much a certain topic is discussed, and in what context.
+3)Bash supports the "watch" command, therefore it could be relatively simple to have the process repeat itself every hour. To simplify the
+procedure, we can use a the "diff" command to only scan new links, and add those to the count.
